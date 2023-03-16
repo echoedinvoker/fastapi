@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/5-routes/20-routers/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "5. Routers",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "20. Routers",
+    "video.length": 4,
+    "time.comsuming": 10,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T16:43:29Z",
     "tag": [
-      "fastapi","router" 
+      "fastapi","router","concept" 
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28260642#content",
+    "description": "Describe why router is needed."
   }
 
