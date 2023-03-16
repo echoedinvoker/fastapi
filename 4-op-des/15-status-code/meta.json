@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/4-op-des/15-status-code/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "4. Operation description",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "15. Status code",
+    "video.length": 7,
+    "time.comsuming": 39,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T09:23:44Z",
     "tag": [
-      "fastapi","description" 
+      "fastapi","description","status-code","status","default","response" 
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251620#content",
+    "description": "Explains how to change the status code of the response based on the result of the operation function processing."
   }
 

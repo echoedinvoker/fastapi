@@ -4,6 +4,10 @@
 
 ![Alt swagger test](pic/02.jpg)
 
+- will automatically generate status code 200, if nothing is set.
+- The status code represents the result of the operation function.
+  - The client-side application relies a lot on the status code to determine what follow-up actions to take.
+
 ## **Set default status code**
 
 ![Alt set default status code](pic/03.jpg)
