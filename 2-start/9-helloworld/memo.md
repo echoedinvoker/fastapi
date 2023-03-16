@@ -18,6 +18,8 @@
 
 ![Alt page result](pic/05.jpg)
 
+> The JSON rendering on browser will only be a normal string, so it is recommended to install the following expension.
+
 ![Alt plugin for json](pic/06.jpg)
 
 ![Alt after setup](pic/07.jpg)
