@@ -10,6 +10,8 @@
 
 ![Alt swagger test](pic/04.jpg)
 
+- Obviously what we need is the ability to dynamically switch the status code based on the id value, so the default value is not enough.
+
 ## **status ns and Response type**
 
 ### _status ns_
