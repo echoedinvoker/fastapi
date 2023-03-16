@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/5-routes/22-second-router/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "5. Routers",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "22. Adding a second router",
+    "video.length": 4,
+    "time.comsuming": 14,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T17:38:34Z",
     "tag": [
-      "fastapi","router" 
+      "fastapi","router","post","prepare"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28269566#content",
+    "description": "Create another router for POST method."
   }
 
