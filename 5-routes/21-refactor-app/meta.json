@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/5-routes/21-refactor-app/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "5. Routers",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "21. Refactoring the app",
+    "video.length": 8,
+    "time.comsuming": 34,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T17:20:04Z",
     "tag": [
       "fastapi","router" 
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28269564#content",
+    "description": "Create router and split operations from app to it."
   }
 
