@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/4-op-des/16-tags/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "4. Operation description",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "16. Tags",
+    "video.length": 4,
+    "time.comsuming": 13,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T09:40:21Z",
     "tag": [
-      "fastapi","description" 
+      "fastapi","description","tags"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28260688#content",
+    "description": "Explain what is tags for."
   }
 

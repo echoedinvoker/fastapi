@@ -8,8 +8,17 @@ app = FastAPI()
 def index():
     return {'message': 'Hello World!'}
 
-@app.get('/blog/all', tags=['blog', 'page'])
+@app.get('/blog/all', 
+         tags=['blog', 'page'], 
+         summary='Retrieve all blogs',
+         )
 def get_all_blog(page: int = 1, blog: Optional[str] = None):
+    """
+    ## This API is used to see how many pages a blog has.
+
+    - **page** - int type, default value is 1, optional.
+    - **blog** - str type, default value is None, optional
+    """
     return {'message': f'Blog {blog} has {page} pages.'}
 
 class BlogType(str, Enum):
