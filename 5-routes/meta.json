@@ -2,7 +2,7 @@
     "category-v2.single.toJob": "fastapi",
     "git.link": "",
     "course": "Complete FastAPI masterclass from scratch 2023",
-    "chapter": "4. Operation description",
+    "chapter": "5. Routers",
     "section": "",
     "video.length": ,
     "time.comsuming": ,
@@ -10,7 +10,7 @@
     "lecturer.name.last": "Stefan",
     "register.time": "",
     "tag": [
-      "fastapi","description" 
+      "fastapi","router" 
     ],
     "video.link": "",
     "description": ""

@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/4-op-des/17-summary-n-des/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "4. Operation description",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "17. Summary and description",
+    "video.length": 5,
+    "time.comsuming": 30,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T13:02:56Z",
     "tag": [
-      "fastapi","description" 
+      "fastapi","description","summary","quotes","document","swagger"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28260700#content",
+    "description": "Explain how to add summary and description to the operation to enrich the document."
   }
 
