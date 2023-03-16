@@ -1,5 +1,7 @@
 ## **Build Model for request body**
 
+> We usually design a unique model for each API request body because there are lots of benefits.
+
 ![Alt BaseModel](pic/01.jpg)
 
 - What benefits does model give us?
