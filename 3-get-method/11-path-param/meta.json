@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/3-get-method/11-path-param/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "3. GET method",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "11. Path parameters",
+    "video.length": 7,
+    "time.comsuming": 31,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T06:19:05Z",
     "tag": [
-      "fastapi","get" 
+      "fastapi","get","param","parameter","type","order"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251560#content",
+    "description": "Introduces the path parameter and explains how to define its type."
   }
 
