@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/3-get-method/12-predefined-value/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "3. GET method",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "12. Predefined values",
+    "video.length": 5,
+    "time.comsuming": 26,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T06:48:40Z",
     "tag": [
-      "fastapi","get" 
+      "fastapi","get","custom","type","enum","range","predefine"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251584#content",
+    "description": "Explains how to limit the range of the path parameter."
   }
 
