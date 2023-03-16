@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/2-start/9-helloworld/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "2. Getting started",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "9. HelloWorld discussion",
+    "video.length": 7,
+    "time.comsuming": 43,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-16T05:43:57Z",
     "tag": [
-      "fastapi","start" 
+      "fastapi","start","reload","operation","app","uvicorn"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251526#content",
+    "description": "Generate the simplest fastapi app and analyze the structure."
   }
 
