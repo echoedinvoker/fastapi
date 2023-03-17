@@ -1,0 +1,18 @@
+{
+    "category-v2.single.toJob": "fastapi",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/6-params/24-req-body/memo.md",
+    "course": "Complete FastAPI masterclass from scratch 2023",
+    "chapter": "6. Parameters",
+    "section": "25. Path and query parameters",
+    "video.length": 4,
+    "time.comsuming": 9,
+    "lecturer.name.first": "Catalin",
+    "lecturer.name.last": "Stefan",
+    "register.time": "2023-03-16T22:23:36Z",
+    "tag": [
+      "fastapi","parameter","mix" 
+    ],
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28365556#content",
+    "description": "Mix the request body with two other parameters."
+  }
+
