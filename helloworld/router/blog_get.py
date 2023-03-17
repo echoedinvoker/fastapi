@@ -1,6 +1,7 @@
-from fastapi import APIRouter, Response, status
+from fastapi import APIRouter, Response, status, Depends
 from enum import Enum
 from typing import Optional
+from .blog_post import required_functionality
 
 
 router = APIRouter(
@@ -12,14 +13,16 @@ router = APIRouter(
          tags=['page'], 
          summary='Retrieve all blogs',
          )
-def get_all_blog(page: int = 1, blog: Optional[str] = None):
+def get_all_blog(page: int = 1, 
+                 blog: Optional[str] = None, 
+                 req_param: dict = Depends(required_functionality)):
     """
     ## This API is used to see how many pages a blog has.
 
     - **page** - int type, default value is 1, optional.
     - **blog** - str type, default value is None, optional
     """
-    return {'message': f'Blog {blog} has {page} pages.'}
+    return {'message': f'Blog {blog} has {page} pages.', 'req': req_param}
 
 class BlogType(str, Enum):
     short = 'short'

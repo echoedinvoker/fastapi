@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/6-params/30-complex-subtype/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "6. Parameters",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "30. COmplex subtypes",
+    "video.length": 6,
+    "time.comsuming": 29,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-17T21:47:22Z",
     "tag": [
-      "fastapi","parameter" 
+      "fastapi","parameter","model","type","subtype","dict","tuple","set","list"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251608#content",
+    "description": "Explain that the Pydantic model is not limited by simple types."
   }
 
