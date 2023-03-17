@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/6-params/29-number-validator/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "6. Parameters",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "29. Number validators",
+    "video.length": 5,
+    "time.comsuming": 21,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-17T21:16:25Z",
     "tag": [
-      "fastapi","parameter" 
+      "fastapi","parameter","validation","int"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28370366#content",
+    "description": "Introduction of number validators for parameters."
   }
 
