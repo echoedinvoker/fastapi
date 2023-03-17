@@ -15,4 +15,6 @@
 
 ![Alt set defaul list values](pic/12.jpg)
 
+- Very intuitive, since we will get a list, we set the default value directly to the list.
+
 ![Alt result](pic/13.jpg)
