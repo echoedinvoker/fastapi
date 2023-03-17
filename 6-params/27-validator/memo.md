@@ -10,6 +10,8 @@
 
 ### _required_
 
+> Sometimes you want the parameter to be required, not optional, how to handle it?
+
 ![Alt Ellipsis](pic/04.jpg)
 
 ![Alt swagger response](pic/05.jpg)
@@ -17,6 +19,8 @@
 ![Alt Ellipsis constructor](pic/06.jpg)
 
 ### _validations_
+
+> In addition to the default value, Body also provides some parameters to enable some validation functionalities.
 
 ![Alt validations](pic/07.jpg)
 
