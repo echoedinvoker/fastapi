@@ -12,6 +12,10 @@
 
 ## **Complex subtype & Optional**
 
+> We can use another model as type in one model, so that the other model is called complex subtype (only the naming is complex I think...)
+
 ![Alt complex subtype, optional](pic/05.jpg)
 
 ![Alt result](pic/06.jpg)
+
+- We can have multiple layers of model type.
