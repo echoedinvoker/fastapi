@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/6-params/28-multi-values/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "6. Parameters",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "28. Multiple values",
+    "video.length": 4,
+    "time.comsuming": 20,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-17T20:52:55Z",
     "tag": [
-      "fastapi","parameter" 
+      "fastapi","parameter","typing","list","multiple","query"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28367102#content",
+    "description": "Explains how to set multiple query parameters in the model."
   }
 
