@@ -22,4 +22,6 @@
 
 ![Alt qa](pic/08.jpg)
 
+- So it will report error is type verification problem.
+
 ![Alt text after fix](pic/09.jpg)
