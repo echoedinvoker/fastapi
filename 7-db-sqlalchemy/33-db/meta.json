@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/7-db-sqlalchemy/33-db/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "7. Database with SQLAlchemy",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "33. Databases in FastAPI",
+    "video.length": 7,
+    "time.comsuming": 11,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-18T01:44:39Z",
     "tag": [
-      "fastapi","database" 
+      "fastapi","database","concept"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28479908#content",
+    "description": "concept of Database in FastAPI."
   }
 

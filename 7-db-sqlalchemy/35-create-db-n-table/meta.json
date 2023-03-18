@@ -1,0 +1,18 @@
+{
+    "category-v2.single.toJob": "fastapi",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/7-db-sqlalchemy/33-db/memo.md",
+    "course": "Complete FastAPI masterclass from scratch 2023",
+    "chapter": "7. Database with SQLAlchemy",
+    "section": "35. Create database and table",
+    "video.length": 3,
+    "time.comsuming": 14,
+    "lecturer.name.first": "Catalin",
+    "lecturer.name.last": "Stefan",
+    "register.time": "2023-03-18T02:00:47Z",
+    "tag": [
+      "fastapi","database","requirement"
+    ],
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28480592#content",
+    "description": "Install SQLAlchemy using requirements.txt and prepare the relevant codes (provided by the course)."
+  }
+
