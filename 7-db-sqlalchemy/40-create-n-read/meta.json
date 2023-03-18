@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/7-db-sqlalchemy/40-create-n-read/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "7. Database with SQLAlchemy",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "40. Create and read",
+    "video.length": 9,
+    "time.comsuming": 55,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-18T08:17:31Z",
     "tag": [
       "fastapi","database" 
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28480002#content",
+    "description": "Explain how to read data from a database."
   }
 

@@ -10,3 +10,7 @@ class DbUser(Base):
     email = Column(String)
     password = Column(String)
     
+class DbBlog(Base):
+    __tablename__ = 'blogs'
+    id = Column(Integer, primary_key=True, index=True)
+    blogname = Column(String)
