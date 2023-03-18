@@ -16,6 +16,8 @@
 
 ![Alt three types of data def](pic/04.jpg)
 
+- The constructor for the data type on the user side is different from that on the database side.
+
 ## **API, which is only FastAPI specific**
 
 ![Alt api](pic/05.jpg)
