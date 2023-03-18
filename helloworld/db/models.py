@@ -1,5 +1,6 @@
+from sqlalchemy.orm import relationship
 from db.database import Base
-from sqlalchemy import Column
+from sqlalchemy import Boolean, Column, ForeignKey
 from sqlalchemy.sql.sqltypes import Integer, String
 
 
@@ -9,8 +10,15 @@ class DbUser(Base):
     username = Column(String)
     email = Column(String)
     password = Column(String)
+    items = relationship('DbArticle', back_populates='user')
     
-class DbBlog(Base):
-    __tablename__ = 'blogs'
+class DbArticle(Base):
+    __tablename__ = 'articles'
     id = Column(Integer, primary_key=True, index=True)
-    blogname = Column(String)
+    title = Column(String)
+    content = Column(String)
+    published = Column(Boolean)
+    creator_id = Column(Integer, ForeignKey('users.id'))
+    user = relationship('DbUser', back_populates='items')
+
+    
