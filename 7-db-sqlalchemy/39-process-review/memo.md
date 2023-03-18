@@ -21,3 +21,6 @@
 ## **API, which is only FastAPI specific**
 
 ![Alt api](pic/05.jpg)
+
+- This is the only part of the process that is associated with the FastAPI feature.
+  - Don't forget that the FastAPI feature of automatic document generation is a very powerful feature...

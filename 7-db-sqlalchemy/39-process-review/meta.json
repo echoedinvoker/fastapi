@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/7-db-sqlalchemy/39-process-review/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "7. Database with SQLAlchemy",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "39. Process review",
+    "video.length": 5,
+    "time.comsuming": 41,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-18T07:15:53Z",
     "tag": [
-      "fastapi","database" 
+      "fastapi","database","process","review"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28486582#content",
+    "description": "Review the content of the previous two lectures, and figure out the process."
   }
 
