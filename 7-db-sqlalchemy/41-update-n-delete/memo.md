@@ -19,3 +19,5 @@
 ![Alt error log 2](pic/07.jpg)
 
 ![Alt exception handle](pic/08.jpg)
+
+- We will deal with them in other lectures.
