@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/8-concepts/45-custom-res/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
-    "chapter": "",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "chapter": "8. Concepts",
+    "section": "45. Custom Response",
+    "video.length": 23,
+    "time.comsuming": 109,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-21T08:34:25Z",
     "tag": [
-      "fastapi"
+      "fastapi","response","custom","document"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28507429#content",
+    "description": "Explain how to create custom responses, and write their documentation."
   }
 
