@@ -2,6 +2,8 @@
 
 ![Alt Cookies](pic/01.jpg)
 
+- A cookie can hold data of almost any type, not just a string.
+
 ## **Coding: set and retrieve**
 
 ![Alt set and retrieve](pic/02.jpg)
