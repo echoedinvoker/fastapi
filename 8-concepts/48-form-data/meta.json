@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/8-concepts/48-form-data/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "8. Concepts",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "48. Form data",
+    "video.length": 4,
+    "time.comsuming": 25,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-21T21:22:22Z",
     "tag": [
-      "fastapi"
+      "fastapi","form"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251766#content",
+    "description": "Explain how to add Form input to request."
   }
 
