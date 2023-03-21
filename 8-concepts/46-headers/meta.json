@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/8-concepts/46-headers/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "8. Concepts",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "46. Headers",
+    "video.length": 13,
+    "time.comsuming": 60,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-21T12:51:07Z",
     "tag": [
-      "fastapi"
+      "fastapi","response","custom","postman","request","header"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251804#content",
+    "description": "Description of how to add custom headers."
   }
 
