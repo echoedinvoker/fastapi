@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/7-db-sqlalchemy/42-relationships/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "7. Database with SQLAlchemy",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "42. Relationships",
+    "video.length": 30,
+    "time.comsuming": 131,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-18T23:51:58Z",
     "tag": [
-      "fastapi","database" 
+      "fastapi","database","article","relationship","foreign","fk","key","model","schemas","orm","router"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28480014#content",
+    "description": "Explain how to relate two models."
   }
 
