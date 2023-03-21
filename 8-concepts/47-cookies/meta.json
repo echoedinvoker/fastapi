@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "fastapi",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/fastapi/blob/master/8-concepts/47-cookies/memo.md",
     "course": "Complete FastAPI masterclass from scratch 2023",
     "chapter": "8. Concepts",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "47. Cookies",
+    "video.length": 6,
+    "time.comsuming": 34,
     "lecturer.name.first": "Catalin",
     "lecturer.name.last": "Stefan",
-    "register.time": "",
+    "register.time": "2023-03-21T20:53:00Z",
     "tag": [
-      "fastapi"
+      "fastapi","cookie"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/completefastapi/learn/lecture/28251788#content",
+    "description": "Explain how to set/retrieve cookies."
   }
 
